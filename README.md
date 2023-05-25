@@ -1,6 +1,5 @@
 # av340-me
-gitLocal
-
-put (1:0);
-
-end;
+Currently Brainstorming and Working on the Blueprint
+======================================================
+ALP$B
+-----
